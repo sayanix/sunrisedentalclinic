@@ -1,0 +1,2 @@
+admin,admin123,Manager
+receptionist,rec123,Staff
